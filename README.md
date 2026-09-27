@@ -1,26 +1,37 @@
-# Hi, I'm Khaled Mohammed
+# Khaled Mohammed
 
-**AI evaluation · Software QA · Python automation · GIS**
+**AI evaluation · Machine learning · Scientific computing · Python/C++**
 
-I work on evaluating AI outputs, translating requirements into testable specifications, and developing practical tools with AI-assisted engineering workflows. My background combines a master's degree in Geographic Information Systems, a bachelor's degree in Geophysics, and experience in business operations and HSE.
+I build and review reproducible technical workflows for AI evaluation, coding benchmarks, software quality, and engineering analysis. My work combines five years of hands-on machine-learning experience with Python automation, test design, geospatial analysis, and computational engineering.
 
-## What I work on
+## Current focus
 
-- **AI and LLM evaluation:** structured prompts, evaluation rubrics, reasoning and factuality checks, coding-task review, and Arabic-English content quality.
-- **Software quality:** defect reproduction, regression and boundary tests, data validation, persistence, and reproducible checks.
-- **Business automation:** command-line tools and local applications for planning, maintenance, inventory, and expense workflows.
-- **Geospatial analysis:** GIS data preparation, spatial analysis, coordinate-system checks, and technical interpretation.
+- Designing difficult coding and technical-evaluation tasks for AI systems
+- Writing reference solutions, test harnesses, grading criteria, and failure cases
+- Building reproducible Python tools for data processing and scientific analysis
+- Evaluating model outputs for correctness, robustness, and instruction compliance
+- Applying numerical methods to GIS, geophysics, and aerodynamic analysis
 
-## Tools in my workflows
+## Selected project
 
-Python · JavaScript / Node.js · SQL / SQLite · Git · pytest · GitHub Actions · Docker
+### [Arabic AI Toolkit](https://github.com/khaledmohammed9988/arabic-ai-toolkit)
 
-ArcGIS · QGIS · GeoPandas · GDAL
+Dependency-free Python utilities for Arabic text normalization and transparent AI-output evaluation. Includes a JSONL command-line workflow, exact-match and token-level metrics, unit tests, and continuous integration.
 
-I use AI tools throughout development and contribute through requirements, domain decisions, iteration, review, and testing.
+## Technical toolkit
 
-## Connect
+`Python` · `C++` · `PyTorch` · `NumPy` · `SciPy` · `pandas` · `SQL` · `Bash` · `Git` · `Docker` · `pytest` · `GitHub Actions`
 
-[LinkedIn](https://www.linkedin.com/in/khaled-mohammed998837/)
+Additional domain tools: `ArcGIS` · `QGIS` · `GeoPandas` · `GDAL` · `XFOIL` · `XFLR5` · `Flow5`
 
-Arabic: native · English: professional working proficiency
+## Background
+
+- M.Sc. in Geographic Information Systems, Assiut University
+- B.Sc. in Geophysics, Assiut University
+- Experience across AI evaluation, software QA, ML workflows, GIS, geophysics, and computational aerodynamics
+- Arabic: native · English: professional working proficiency
+
+## Links
+
+- [LinkedIn](https://www.linkedin.com/in/khaled-mohammed998837/)
+- [ORCID](https://orcid.org/0009-0008-4904-0122)
