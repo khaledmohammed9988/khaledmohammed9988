@@ -12,11 +12,19 @@ I build and review reproducible technical workflows for AI evaluation, coding be
 - Evaluating model outputs for correctness, robustness, and instruction compliance
 - Applying numerical methods to GIS, geophysics, and aerodynamic analysis
 
-## Selected project
+## Selected work
 
 ### [Arabic AI Toolkit](https://github.com/khaledmohammed9988/arabic-ai-toolkit)
+Dependency-free Python utilities for Arabic normalization and transparent AI-output evaluation, with a JSONL CLI, token metrics, tests, and CI.
 
-Dependency-free Python utilities for Arabic text normalization and transparent AI-output evaluation. Includes a JSONL command-line workflow, exact-match and token-level metrics, unit tests, and continuous integration.
+### [Aerodynamic Analysis Workflow](https://github.com/khaledmohammed9988/aerodynamic-analysis-workflow)
+Reproducible scientific-computing workflow for operating-point checks, polar interpolation, physical validation, and Grid Convergence Index reporting.
+
+### [Arabic AI Evaluation Benchmark](https://github.com/khaledmohammed9988/arabic-ai-evaluation-benchmark)
+Auditable Arabic benchmark with public cases, deterministic reference grader, regression tests, forbidden-claim checks, and an expert review rubric.
+
+### [Interactive Arabic Evaluation Demo](https://huggingface.co/spaces/Khaled9988/arabic-ai-evaluation-toolkit)
+Live Hugging Face Space for comparing Arabic model outputs with references using conservative normalization and transparent metrics.
 
 ## Technical toolkit
 
@@ -33,5 +41,9 @@ Additional domain tools: `ArcGIS` · `QGIS` · `GeoPandas` · `GDAL` · `XFOIL` 
 
 ## Links
 
+- [Portfolio](https://khaledmohammed9988.github.io/engineering-ai-portfolio/)
 - [LinkedIn](https://www.linkedin.com/in/khaled-mohammed998837/)
+- [Kaggle](https://www.kaggle.com/khaledmohammed99)
+- [Hugging Face](https://huggingface.co/Khaled9988)
 - [ORCID](https://orcid.org/0009-0008-4904-0122)
+- [LeetCode](https://leetcode.com/u/khaledmohammed99/)
